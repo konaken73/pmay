@@ -1,0 +1,30 @@
+/** ADD YOUR AWESOME CODES HERE **/
+.menu_section{
+  background: #00008B;
+}
+.heading_2  {
+    width: 76%;
+    height: auto;
+    background: #7b002c;
+    content: "";
+    display: block;
+    transform: skew(-25deg);
+    margin-top: 3px;
+}
+.heading_font{
+  font-weight: bold;
+  font-style:normal;
+
+  color: #fff !important;
+
+}
+a.heading_font:hover{
+  color: #fe08de !important;
+}
+
+.infoi {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+}
